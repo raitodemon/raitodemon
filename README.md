@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raitodemon
-- 👀 I’m interested in Postscritptum
+- 👀 I’m interested in Postscriptum
 - 🌱 I’m currently learning UE4
 - 💞️ I’m looking to collaborate on mods
 - 📫 How to reach me no
